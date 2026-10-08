@@ -27,12 +27,6 @@ and integrations between apps, ERP, and CRM systems.
 | Infrastructure | Linux, Docker, Nginx |
 | Version control | Git |
 
-## Selected work
-
-- Hyper Techno: Magento 2 customization and Dynamics AX integration.
-- Fox Technology: bilingual website connected to Odoo CRM.
-- WFM and AMJ Trading: WordPress development and ongoing maintenance.
-
 ## Find me
 
 [Upwork](https://www.upwork.com/freelancers/minaadelibrahim)
