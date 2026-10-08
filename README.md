@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mina Adel
 
-<!--
-**minaadelibrahim/minaadelibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web and mobile developer based in Egypt.
+Co-founder and CTO at Fox Technology.
 
-Here are some ideas to get you started:
+I build mobile apps, business websites, online stores,
+and integrations between apps, ERP, and CRM systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- Flutter apps for Android and iOS
+- Laravel applications, dashboards, and APIs
+- Odoo modules, workflows, and reports
+- Magento 2 stores and ERP integrations
+- WordPress and WooCommerce development and maintenance
+
+## Technologies
+
+| Area | Technologies |
+| --- | --- |
+| Mobile | Flutter, Dart |
+| Backend | PHP, Laravel, Python, C# |
+| Business systems | Odoo |
+| E-commerce | Magento 2, WooCommerce |
+| Websites | WordPress, Astro, TypeScript, Tailwind CSS |
+| Databases | MySQL, PostgreSQL |
+| Infrastructure | Linux, Docker, Nginx |
+| Version control | Git |
+
+## Selected work
+
+- Hyper Techno: Magento 2 customization and Dynamics AX integration.
+- Fox Technology: bilingual website connected to Odoo CRM.
+- WFM and AMJ Trading: WordPress development and ongoing maintenance.
+
+## Find me
+
+[Upwork](https://www.upwork.com/freelancers/minaadelibrahim)
